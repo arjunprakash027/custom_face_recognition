@@ -8,7 +8,7 @@ The model I created has been trained 3 celebrity images with 100 images each
 I have used SVM and RandomForest algorith to perform the training with 71% and 68% accuracy respectively
 
 
-<h4>to run it on your personal system<h4>
+<h4>to run it on your personal system</h4>
 <ul>
 <li>Step 1: download all the files in this repo</li>
 <li>Step 2: go to cmd and type pip install -r requirements.txt</li>
