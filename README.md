@@ -1,6 +1,5 @@
-<h2><center>Mini Project<center></h2>
+<h2><center>Face Recognition using SVM and RF<center></h2>
 Hi
-This is a mini project I built for my AI for robotics course
 
 This is an simple image classification model for celebrity images
 
